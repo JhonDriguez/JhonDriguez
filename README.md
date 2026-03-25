@@ -37,7 +37,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,apple,arduino,azure,blender,css,github,html,java,js,latex,ai,ps,php,visualstudio,vscode,wordpress,xd,windows,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ae,azure,c#,github,html,java,js,latex,ai,php,visualstudio,vscode,xd,ps&perline=12" />
   </a>
 </p>
 <br>
