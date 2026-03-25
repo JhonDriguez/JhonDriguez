@@ -33,14 +33,16 @@
   </p>
 <br>
 
-<h2 ><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Tecnologías Conocidas</h2>
-<!--tech stack icons-->
+<h2 align="left">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px">
+  Tecnologías Conocidas
+</h2>
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,azure,c#,github,html,java,js,latex,ai,php,visualstudio,vscode,xd,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ae,azure,cs,github,html,java,js,latex,php,vscode,visualstudio&perline=12" />
   </a>
 </p>
-<br>
 <!-------------------------->
 <div id="proyectos">
 <h1>Algunos Proyectos 👜 </h1>
